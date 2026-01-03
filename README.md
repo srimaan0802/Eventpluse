@@ -10,8 +10,7 @@ npm install
 npm run dev
 ```
 Web:
-```bash
-cd frontend
+h --cd frontend
 npm install
 npm run dev
 ```
